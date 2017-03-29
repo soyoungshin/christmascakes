@@ -8,4 +8,73 @@ html {
 body {
     background: #52d83c;
     text-align: center;
+font-family: 'Josefin Sans', sans-serif;
+line-height: 1.5;
 }
+
+h1, h2, h3, h4, h5 {
+font-family: 'Tangerine', cursive;
+text-shadow: 4px 4px 4px #aaa;
+}
+
+h1 {
+font-size: 60px;
+}
+
+h2 {
+	font-size: 45px;
+}
+
+/* frontpage */
+
+#audition {
+	
+}
+
+#roses {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+/* participate */
+
+#connection, #about, #description {
+	background: white;
+	padding: 20px;
+}
+
+#connection div, #description div {
+	padding-top: 30px;
+
+}
+
+#about {
+
+}
+
+#ante, #soyoung {
+	width: 45%;	
+	display: inline-block;
+padding: 15px;
+}
+
+#ante img, #soyoung img {
+	width: 40%;
+}
+
+.name, .bold {
+	font-weight: bold;
+}
+
+
+#audition, .ques {
+	background-color: #42f4e8;
+    padding: 20px;
+    border: 6px solid white;
+margin: 20px;
+}
+
+/*
+
+    font-style: italic;
+    font-weight: 700;
+*/
