@@ -9,8 +9,10 @@ body {
     background: #52d83c;
     text-align: center;
 font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
 line-height: 1.5;
 }
+
 
 h1, h2, h3, h4, h5 {
 font-family: 'Tangerine', cursive;
