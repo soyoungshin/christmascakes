@@ -31,13 +31,14 @@ h2 {
 
 #audition {
 font-size: 40px;
-font-weight: bold;
 	
+font-weight: bold;
 }
 
 #roses {
 	margin-top: 20px;
 	margin-bottom: 20px;
+width: 50%;
 }
 /* participate */
 
@@ -82,3 +83,16 @@ margin: 20px;
     font-style: italic;
     font-weight: 700;
 */
+
+
+#left {
+	text-align: left;
+}
+
+#contactwrapper {
+	border: 2px solid grey;
+	padding: 20px;
+	margin-top: 40px;
+	background-color: #fffff2; 
+	font-weight: bold;
+}
